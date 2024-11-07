@@ -57,7 +57,7 @@ This is a Tower Defense game built in Unity. The project features a variety of d
 - Only basic enemy types are implemented, with room for further expansion.
 
 ## Authors and Acknowledgments
-- Developed by **Yessirkegen Bexultan**.
+- Developed by **Ilyasov Temirlan**.
 - Special thanks to those who contributed to the implementation of design patterns, which helped in improving the overall code quality.
 
 ## License
