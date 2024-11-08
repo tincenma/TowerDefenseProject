@@ -34,12 +34,19 @@ This is a Tower Defense game built in Unity. The project features a variety of d
 - **Scenes**: Contains different levels and main menu.
 
 ## Installation and Setup
-1. Clone the repository from GitHub:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Open the project in Unity (2022.3.12f1 or higher).
-3. Press **Play** in the Unity editor to test the game.
+
+There are two ways to run and explore the game:
+
+### Option 1: Play the Game with the Pre-Built Version
+1. Download the `BuildGame.zip` file.
+2. Extract the contents of the zip file.
+3. Inside the extracted folder, open `TowerDefenseTutorial.exe` to start the game.
+
+### Option 2: Open the Project in Unity
+1. Open Unity and create a new project.
+2. Copy or import the project files into the new Unity project directory.
+3. Open the project in Unity to access the game's source code and make modifications.
+4. You can run the game within the Unity Editor by clicking the "Play" button.
 
 ## How to Play
 - Use **WASD** or move the mouse to the edges of the screen to move the camera.
